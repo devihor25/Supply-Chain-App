@@ -22,7 +22,7 @@ The **Supply Chain Tracking App** leverages **blockchain technology** to ensure 
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/Devanshgoel-123/SupplyChain-Web3.git
+git clone https://github.com/devihor25/Supply-Chain-App.git
 cd backend
 ```
 
@@ -83,10 +83,5 @@ npm run dev  # or yarn dev
 🚀 **AI-Powered Predictive Logistics:** Predict shipment delays using AI models.  
 🚀 **NFT-Based Ownership Transfers:** Convert shipments into tradeable NFTs.  
 🚀 **Cross-Chain Tracking:** Use LayerZero to track shipments across multiple blockchains.  
-
----
-
-## 📄 License  
-This project is licensed under the **MIT License**.  
 
 ---
